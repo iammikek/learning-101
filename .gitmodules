@@ -1,0 +1,69 @@
+[submodule "alpine-101"]
+	path = alpine-101
+	url = https://github.com/iammikek/alpine-101.git
+[submodule "django-101"]
+	path = django-101
+	url = https://github.com/iammikek/django-101.git
+[submodule "dotNet-101"]
+	path = dotNet-101
+	url = https://github.com/iammikek/dotNet-101.git
+[submodule "express-101"]
+	path = express-101
+	url = https://github.com/iammikek/express-101.git
+[submodule "fastAPI-101"]
+	path = fastAPI-101
+	url = https://github.com/iammikek/fastAPI-101.git
+[submodule "flask-101"]
+	path = flask-101
+	url = https://github.com/iammikek/flask-101.git
+[submodule "flutter-101"]
+	path = flutter-101
+	url = https://github.com/iammikek/flutter-101.git
+[submodule "fortran-101"]
+	path = fortran-101
+	url = https://github.com/iammikek/fortran-101.git
+[submodule "framework-x-101"]
+	path = framework-x-101
+	url = https://github.com/iammikek/framework-x-101.git
+[submodule "geblang-101"]
+	path = geblang-101
+	url = https://github.com/iammikek/geblang-101.git
+[submodule "gebweb-101"]
+	path = gebweb-101
+	url = https://github.com/iammikek/gebweb-101.git
+[submodule "go-101"]
+	path = go-101
+	url = https://github.com/iammikek/go-101.git
+[submodule "java-101"]
+	path = java-101
+	url = https://github.com/iammikek/java-101.git
+[submodule "laravel-101"]
+	path = laravel-101
+	url = https://github.com/iammikek/laravel-101.git
+[submodule "llm-101"]
+	path = llm-101
+	url = https://github.com/iammikek/llm-101.git
+[submodule "nest-101"]
+	path = nest-101
+	url = https://github.com/iammikek/nest-101.git
+[submodule "orchestr-101"]
+	path = orchestr-101
+	url = https://github.com/iammikek/orchestr-101.git
+[submodule "rails-101"]
+	path = rails-101
+	url = https://github.com/iammikek/rails-101.git
+[submodule "react-101"]
+	path = react-101
+	url = https://github.com/iammikek/react-101.git
+[submodule "sinatra-101"]
+	path = sinatra-101
+	url = https://github.com/iammikek/sinatra-101.git
+[submodule "slim-101"]
+	path = slim-101
+	url = https://github.com/iammikek/slim-101.git
+[submodule "symfony-101"]
+	path = symfony-101
+	url = https://github.com/iammikek/symfony-101.git
+[submodule "vue-101"]
+	path = vue-101
+	url = https://github.com/iammikek/vue-101.git
