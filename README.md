@@ -32,6 +32,7 @@ make status   # submodule SHAs
 | [django-101](https://github.com/iammikek/django-101) | 8001 | Django + DRF |
 | [framework-x-101](https://github.com/iammikek/framework-x-101) | 8004 | Framework X, ReactPHP |
 | [laravel-101](https://github.com/iammikek/laravel-101) | 8003 | Laravel, Eloquent |
+| [nativephp-101](https://github.com/iammikek/nativephp-101) | 8018 | NativePHP Mobile, Laravel |
 | [orchestr-101](https://github.com/iammikek/orchestr-101) | 8005 | Orchestr, Ensemble |
 | [rails-101](https://github.com/iammikek/rails-101) | 8012 | Rails 8, ActiveRecord |
 | [symfony-101](https://github.com/iammikek/symfony-101) | 8002 | Symfony 7, Doctrine |
@@ -62,7 +63,6 @@ make status   # submodule SHAs
 |------|-----------------|-------|
 | [alpine-101](https://github.com/iammikek/alpine-101) | 5180 | Alpine.js, Vite |
 | [flutter-101](https://github.com/iammikek/flutter-101) | mobile / desktop | Flutter |
-| [nativephp-101](https://github.com/iammikek/nativephp-101) | iOS / Android / Sail | NativePHP Mobile, Laravel |
 | [react-101](https://github.com/iammikek/react-101) | 3000 | React 19, Vite |
 | [vue-101](https://github.com/iammikek/vue-101) | 5173 | Vue 3, Pinia |
 
