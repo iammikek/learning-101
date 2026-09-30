@@ -46,6 +46,9 @@
 [submodule "llm-101"]
 	path = llm-101
 	url = https://github.com/iammikek/llm-101.git
+[submodule "nativephp-101"]
+	path = nativephp-101
+	url = https://github.com/iammikek/nativephp-101.git
 [submodule "nest-101"]
 	path = nest-101
 	url = https://github.com/iammikek/nest-101.git

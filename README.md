@@ -62,6 +62,7 @@ make status   # submodule SHAs
 |------|-----------------|-------|
 | [alpine-101](https://github.com/iammikek/alpine-101) | 5180 | Alpine.js, Vite |
 | [flutter-101](https://github.com/iammikek/flutter-101) | mobile / desktop | Flutter |
+| [nativephp-101](https://github.com/iammikek/nativephp-101) | iOS / Android / Sail | NativePHP Mobile, Laravel |
 | [react-101](https://github.com/iammikek/react-101) | 3000 | React 19, Vite |
 | [vue-101](https://github.com/iammikek/vue-101) | 5173 | Vue 3, Pinia |
 
@@ -70,10 +71,6 @@ make status   # submodule SHAs
 | Repo | Stack |
 |------|-------|
 | [llm-101](https://github.com/iammikek/llm-101) | Offline-first Python LLM app exercises |
-
-### Not yet on GitHub
-
-Local-only for now (add as submodules when remotes exist): `nativephp-101`, `python-101`.
 
 ## Layout
 
