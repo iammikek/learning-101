@@ -1,6 +1,9 @@
 [submodule "alpine-101"]
 	path = alpine-101
 	url = https://github.com/iammikek/alpine-101.git
+[submodule "cakephp-101"]
+	path = cakephp-101
+	url = https://github.com/iammikek/cakephp-101.git
 [submodule "django-101"]
 	path = django-101
 	url = https://github.com/iammikek/django-101.git

@@ -40,6 +40,7 @@ make status   # submodule SHAs
 
 | Repo | Port | Stack |
 |------|------|-------|
+| [cakephp-101](https://github.com/iammikek/cakephp-101) | 8017 | CakePHP 5, PHPUnit |
 | [dotNet-101](https://github.com/iammikek/dotNet-101) | 8010 | ASP.NET Core, xUnit |
 | [express-101](https://github.com/iammikek/express-101) | 8007 | Express, Vitest |
 | [fastAPI-101](https://github.com/iammikek/fastAPI-101) | 8000 | FastAPI, SQLAlchemy |
